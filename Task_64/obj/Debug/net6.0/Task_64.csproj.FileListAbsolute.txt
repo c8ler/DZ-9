@@ -1,0 +1,15 @@
+/Users/c8ler/Documents/Моё/Питон/GeekBrains/ДЗ/ДЗ №9/Task_64/obj/Debug/net6.0/Task_64.csproj.AssemblyReference.cache
+/Users/c8ler/Documents/Моё/Питон/GeekBrains/ДЗ/ДЗ №9/Task_64/obj/Debug/net6.0/Task_64.GeneratedMSBuildEditorConfig.editorconfig
+/Users/c8ler/Documents/Моё/Питон/GeekBrains/ДЗ/ДЗ №9/Task_64/obj/Debug/net6.0/Task_64.AssemblyInfoInputs.cache
+/Users/c8ler/Documents/Моё/Питон/GeekBrains/ДЗ/ДЗ №9/Task_64/obj/Debug/net6.0/Task_64.AssemblyInfo.cs
+/Users/c8ler/Documents/Моё/Питон/GeekBrains/ДЗ/ДЗ №9/Task_64/obj/Debug/net6.0/Task_64.csproj.CoreCompileInputs.cache
+/Users/c8ler/Documents/Моё/Питон/GeekBrains/ДЗ/ДЗ №9/Task_64/bin/Debug/net6.0/Task_64
+/Users/c8ler/Documents/Моё/Питон/GeekBrains/ДЗ/ДЗ №9/Task_64/bin/Debug/net6.0/Task_64.deps.json
+/Users/c8ler/Documents/Моё/Питон/GeekBrains/ДЗ/ДЗ №9/Task_64/bin/Debug/net6.0/Task_64.runtimeconfig.json
+/Users/c8ler/Documents/Моё/Питон/GeekBrains/ДЗ/ДЗ №9/Task_64/bin/Debug/net6.0/Task_64.dll
+/Users/c8ler/Documents/Моё/Питон/GeekBrains/ДЗ/ДЗ №9/Task_64/bin/Debug/net6.0/Task_64.pdb
+/Users/c8ler/Documents/Моё/Питон/GeekBrains/ДЗ/ДЗ №9/Task_64/obj/Debug/net6.0/Task_64.dll
+/Users/c8ler/Documents/Моё/Питон/GeekBrains/ДЗ/ДЗ №9/Task_64/obj/Debug/net6.0/refint/Task_64.dll
+/Users/c8ler/Documents/Моё/Питон/GeekBrains/ДЗ/ДЗ №9/Task_64/obj/Debug/net6.0/Task_64.pdb
+/Users/c8ler/Documents/Моё/Питон/GeekBrains/ДЗ/ДЗ №9/Task_64/obj/Debug/net6.0/Task_64.genruntimeconfig.cache
+/Users/c8ler/Documents/Моё/Питон/GeekBrains/ДЗ/ДЗ №9/Task_64/obj/Debug/net6.0/ref/Task_64.dll
